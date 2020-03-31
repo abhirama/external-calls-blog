@@ -17,4 +17,4 @@ Install the Requests library using pip.
   pip install -r requirements.txt
   jupyter notebook
 ```
-A tab should open up in your browser at `http://localhost:8888`
+A tab should open in your browser at `http://localhost:8888`
