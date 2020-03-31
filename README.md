@@ -2,7 +2,7 @@
 
 Things to take care of while making external calls
 ==================================================
-Accompanying Jupyter Notebook for the blog on external calls. 
+Accompanying Jupyter Notebook for my [blog](https://abhyrama.com/2020/03/31/wild-wild-world-of-external-calls/) on external calls. 
 
 How to run this notebook?
 =========================
